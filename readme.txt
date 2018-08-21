@@ -1,0 +1,2 @@
+# The Bitcoin question is implemented in init.py file, it is executable and will output result to result.json file
+# The output date format is not specified in the question, so I just keep it original format. But please let me know if the format is not expected so that I can implement an extra emthod to handle that
